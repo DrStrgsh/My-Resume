@@ -1,9 +1,14 @@
 **Oleh Strohush**
 QA Engineer (Manual / Automation — Playwright, TypeScript)
+
 Ukraine · Remote
+
 Email: [dr.strgsh@gmail.com](mailto:dr.strgsh@gmail.com)
+
 LinkedIn: https://www.linkedin.com/in/oleh-strohush-ab9b6519b/
+
 Website: https://strgsh.com/
+
 Telegram: @OmenStr
 
 ---
