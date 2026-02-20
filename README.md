@@ -1,4 +1,4 @@
-**Oleh Strohush**
+# **Oleh Strohush**
 QA Engineer (Manual / Automation — Playwright, TypeScript)
 
 Ukraine · Remote
@@ -16,7 +16,9 @@ Telegram: @OmenStr
 ### SUMMARY
 
 QA Engineer with 8+ years of software engineering experience (Ruby on Rails, React).
+
 Focused on quality assurance and test automation using Playwright + TypeScript.
+
 Apply engineering approach to testing: validate systems at UI, API, and DB levels, analyze root causes, and prevent regressions through deterministic automation.
 
 ---
